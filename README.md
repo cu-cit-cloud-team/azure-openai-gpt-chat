@@ -2,7 +2,7 @@
 
 [![Build & Deploy](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/actions/workflows/build-and-deploy.yml)
 
-ChatGPT-like streaming chat interface powered by Azure AI Foundry with support for GPT-4.1, GPT-5, GPT-5.1, GPT-5.2, o-series, Anthropic (Claude 4.5), and DeepSeek models.
+Private streaming chat interface powered by Azure AI Foundry with support for GPT-4.1, GPT-5, GPT-5.1, GPT-5.2, o-series, Anthropic (Claude 4.5), and DeepSeek models.
 
 ## About
 
