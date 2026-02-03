@@ -1,7 +1,7 @@
 {
   "name": "azure-openai-gpt-chat",
   "version": "1.0.0-beta.27",
-  "description": "A Next.js chat app that uses Azure OpenAI GPT models to generate responses",
+  "description": "Private streaming chat bot experience powered by Azure AI Foundry",
   "private": true,
   "engines": {
     "node": ">= 24.x",
