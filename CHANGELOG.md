@@ -1,3 +1,29 @@
+## 1.0.0-beta.28 (2026-02-05)
+
+* chore(deps-dev): bump @types/node in the types group (#2272) ([ea76c99](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/ea76c99)), closes [#2272](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2272)
+* chore(deps-dev): bump @types/react in the types group (#2264) ([eb3fc96](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/eb3fc96)), closes [#2264](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2264)
+* chore(deps-dev): bump @types/react in the types group (#2269) ([0d26965](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/0d26965)), closes [#2269](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2269)
+* chore(deps): bump ai and ai-elements ([1795573](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/1795573))
+* chore(deps): bump ai-elements from 1.8.2 to 1.8.3 (#2267) ([7eb97dc](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/7eb97dc)), closes [#2267](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2267)
+* chore(deps): bump ai-elements from 1.8.3 to 1.8.4 (#2275) ([79d9465](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/79d9465)), closes [#2275](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2275)
+* chore(deps): bump jotai from 2.17.0 to 2.17.1 (#2265) ([06502c0](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/06502c0)), closes [#2265](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2265)
+* chore(deps): bump motion from 12.31.0 to 12.31.1 (#2270) ([af8e318](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/af8e318)), closes [#2270](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2270)
+* chore(deps): bump motion from 12.31.1 to 12.33.0 (#2273) ([63d9c7f](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/63d9c7f)), closes [#2273](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2273)
+* chore(deps): bump openai from 6.17.0 to 6.18.0 (#2274) ([db60650](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/db60650)), closes [#2274](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2274)
+* chore(deps): bump packageManager ([fef0b6c](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/fef0b6c))
+* chore(deps): bump the ai group with 2 updates (#2266) ([f9d8f66](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/f9d8f66)), closes [#2266](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2266)
+* chore(deps): bump the ai group with 2 updates (#2268) ([73bee02](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/73bee02)), closes [#2268](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2268)
+* chore(deps): bump the ai group with 3 updates (#2271) ([00f6d24](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/00f6d24)), closes [#2271](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2271)
+* feat(api/chat): add/enable claude opus 4.6 ([7e0ae6e](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/7e0ae6e))
+* feat(utils/models): add/enable claude opus 4.6 ([9da8f03](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/9da8f03))
+* ci(build-and-deploy): add var for claude opus 4.6 ([43e9faf](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/43e9faf))
+* refactor(env.local.example): add missing var ([b73334c](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/b73334c))
+* refactor(env.local): add claude opus 4.6 ([a555858](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/a555858))
+* docs(README): tweak verbiage for consistency ([8e26e98](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/8e26e98))
+* style(npm): update description for consistency ([e376810](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/e376810))
+
+
+
 ## 1.0.0-beta.27 (2026-02-03)
 
 * chore(deps-dev): bump @biomejs/biome from 2.3.11 to 2.3.12 (#2239) ([bce5123](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/commit/bce5123)), closes [#2239](https://github.com/cu-cit-cloud-team/azure-openai-gpt-chat/issues/2239)

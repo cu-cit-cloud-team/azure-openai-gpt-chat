@@ -1,6 +1,6 @@
 {
   "name": "azure-openai-gpt-chat",
-  "version": "1.0.0-beta.27",
+  "version": "1.0.0-beta.28",
   "description": "Private streaming chat bot experience powered by Azure AI Foundry",
   "private": true,
   "engines": {
