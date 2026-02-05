@@ -214,7 +214,7 @@ export async function POST(req: Request) {
             model: deepseek(deploymentName),
             middleware: extractReasoningMiddleware({ tagName: 'think' }),
           })
-        : azure.responses(deploymentName);
+        : azure(deploymentName);
 
     // set up streaming options
     const convertedMessages = await convertToModelMessages(uiMessages);
